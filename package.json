@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Projeto base para as próximas aplicações em node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroLeoo07/nodejs-first-boilerplate.git"
+  },
+  "keywords": [
+    "senai",
+    "back-end"
+  ],
+  "author": "Leonardo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PedroLeoo07/nodejs-first-boilerplate/issues"
+  },
+  "homepage": "https://github.com/PedroLeoo07/nodejs-first-boilerplate#readme"
+}
